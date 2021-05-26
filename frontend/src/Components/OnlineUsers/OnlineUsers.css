@@ -1,0 +1,30 @@
+.onlineUser {
+  display: flex;
+  align-items: center;
+  padding-bottom: 7px;
+}
+.onlineUserImg {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.imgContainer {
+  position: relative;
+}
+
+.onlineBadge {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: limegreen;
+  position: absolute;
+  top: 2px;
+  right: 2px;
+}
+
+.onlineUsername {
+  padding: 7px;
+  font-weight: bold;
+}

@@ -1,0 +1,17 @@
+.modalWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ModalContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.userInfo {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
